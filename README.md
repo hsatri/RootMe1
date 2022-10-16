@@ -44,7 +44,8 @@
 	
 	⚠️ root.txt
 		/usr/bin/python -c 'print(open("/root/root.txt").read())'
-    
+    		cat /root/root.txt
+			==> THM{pr1v1l3g3_3sc4l4t10n}
     
     
    
