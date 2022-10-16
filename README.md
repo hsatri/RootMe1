@@ -18,7 +18,8 @@
 		
 
 🔴️Task 3: Getting a shell
-	⚠️Find a form to upload and get a reverse shell, and find the flag.
+
+	⚠️Find a form to upload and get a reverse shell, and find the flag?
 		step1:
 			git clone https://github.com/pentestmonkey/php-reverse-shell.git
 			chmod +x *
